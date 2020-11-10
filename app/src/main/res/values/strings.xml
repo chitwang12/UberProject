@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UberClone</string>
+    <string name ="Sign_In_With_Phone">withPhone</string>
+    <string name ="Sign_In_With_Google">withGoogle</string>
+</resources>
